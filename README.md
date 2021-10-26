@@ -1,1 +1,1 @@
-Quick Learner, hardworking, technologies enthusiast, looking to start a professional career in software development field. Aiming to use the knowledge to improve the quality of society and others lives. Currently pursuing professional degree in Software Development study at STEP IT Academy Cambodia.
+Quick Learner, hardworking, technologies enthusiast, looking to start a professional career in software development field. Aiming to use the knowledge to improve the quality of society and others lives.

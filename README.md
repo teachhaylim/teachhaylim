@@ -2,7 +2,7 @@
   <h1>Hi, I'm Teachhay. 👋</h1>
 </div>
 
-### 🧑 Talking about Personal Stuffs
+### 🧑 About Me
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 📫 How to reach me: teachhaylim12@gmail.com;

@@ -4,9 +4,9 @@
 
 ### 🧑 About Me
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 📫 How to reach me: teachhaylim12@gmail.com;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏻‍💻 I’m currently working on something cool
+- 📫 How to reach me: teachhaylim12@gmail.com
+- 💬 Ask me about anything, I am happy to help
 - 👨‍💻 A JavaScript, Flutter & Dart enthusiast
 
 <!-- ## 🛡️ My GitHub Stats -->

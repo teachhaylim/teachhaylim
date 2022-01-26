@@ -1,1 +1,20 @@
-Quick Learner, hardworking, technologies enthusiast, looking to start a professional career in software development field. Aiming to use the knowledge to improve the quality of society and others lives.
+<div align="center">
+  <h1>Hi, I'm Teachhay. 👋</h1>
+</div>
+
+## 🧑 Talking about Personal Stuffs
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 📫 How to reach me: teachhaylim12@gmail.com;
+- 💬 Ask me about anything, I am happy to help;
+- 👨‍💻 A JavaScript, Flutter & Dart enthusiast
+
+## 🛡️ My GitHub Stats
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=teachhaylim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+
+## 👩‍💻 Most used languages
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teachhaylim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
+
+<!-- ## 🚀 Published projects -->

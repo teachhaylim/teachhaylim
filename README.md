@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
   <h1>Hi, I'm Teachhay. 👋</h1>
 </div>
 

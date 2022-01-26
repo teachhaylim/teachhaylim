@@ -2,16 +2,22 @@
   <h1>Hi, I'm Teachhay. 👋</h1>
 </div>
 
-## 🧑 About Me
-
-- 👨🏻 I’m currently working on something cool
-- 📫 How to reach me: teachhaylim12@gmail.com
-- 💬 Ask me about anything, I am happy to help
-- A JavaScript, Flutter & Dart enthusiast
-
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?logo=facebook&logoColor=white)](https://www.facebook.com/TeachhayLim12)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teachhay-lim-840372214/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-229ED9?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ShadowGMR12)
+
+## 🧑 About Me
+
+- 👨🏻 I’m currently working on something cool
+- 📫 Reach me at: teachhaylim12@gmail.com
+- 💬 Ask me about anything, I am happy to help
+- 😁 Resourceful but Stubborn as hell
+
+## 🎉 Fun facts
+
+- 💻 A JavaScript, Flutter & Dart enthusiast
+- ♑ Capricorn by trait
+- 📑 Tab over space
 
 <!-- ## 🛡️ My GitHub Stats -->
 

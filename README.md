@@ -2,7 +2,7 @@
   <h1>Hi, I'm Teachhay. 👋</h1>
 </div>
 
-## 🧑 Talking about Personal Stuffs
+### 🧑 Talking about Personal Stuffs
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 📫 How to reach me: teachhaylim12@gmail.com;
@@ -13,7 +13,7 @@
 
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=teachhaylim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) -->
 
-## 📈 My GitHub Stats and Metrics
+### 📈 My GitHub Stats and Metrics
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teachhaylim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>

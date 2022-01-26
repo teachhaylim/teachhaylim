@@ -8,7 +8,7 @@
 
 ## 🧑 About Me
 
-- 👨🏻 I’m currently working on something cool
+- 👩‍💻 I’m currently working on something cool
 - 📫 Reach me at: teachhaylim12@gmail.com
 - 💬 Ask me about anything, I'm happy to help
 - 😁 Resourceful but Stubborn as hell

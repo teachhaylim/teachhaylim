@@ -2,7 +2,7 @@
   <h1>Hi, I'm Teachhay. 👋</h1>
 </div>
 
-![Lurkers](https://visitor-badge.glitch.me/badge?page_id=teachhaylim.teachhaylim)
+<!-- ![Lurkers](https://visitor-badge.glitch.me/badge?page_id=teachhaylim.teachhaylim) -->
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?logo=facebook&logoColor=white)](https://www.facebook.com/TeachhayLim12)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teachhay-lim-840372214/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-229ED9?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ShadowGMR12)

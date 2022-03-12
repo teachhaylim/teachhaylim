@@ -18,7 +18,6 @@
 
 - 💻 A JavaScript, Flutter & Dart enthusiast
 - ♑ Capricorn by trait
-- 📑 Tab over space
 
 ---
 

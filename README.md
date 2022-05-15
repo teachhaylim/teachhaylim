@@ -13,11 +13,12 @@
 - 📫 Reach me at: <teachhaylim12@gmail.com>
 - 💬 Ask me about anything, I am happy to help
 - 😁 Resourceful but Stubborn as hell
-
+- ♑ Capricorn by trait
+<!-- 
 ## 🎉 Fun facts
 
 - 💻 A JavaScript, Flutter & Dart enthusiast
-- ♑ Capricorn by trait
+- ♑ Capricorn by trait -->
 
 ---
 

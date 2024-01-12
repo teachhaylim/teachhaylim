@@ -11,7 +11,7 @@
 ## 🧑 About Me
 
 - 👩‍💻 I’m currently working on something cool
-- 📫 Reach me at: <teachhaylim12@gmail.com>
+- 📫 Reach me at: <teachhaylim@duck.com>
 - 💬 Ask me about anything, I am happy to help
 - 😁 Resourceful but Stubborn as hell
 - ♑ Capricorn by trait

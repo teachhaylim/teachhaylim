@@ -31,6 +31,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teachhaylim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+## Now Playing
+
+<img src="https://nowplayi.ng/miniplayer.php?refreshToken=AQAXf0cYIeSx9kovhruVuBHjwWVOD8YASzWfWanmNx1kWqF-bkc0dI4k_HOf5stz3sDhbId5_XdJOQcW3aGSosFD-fLQcsPOzlpoPTnmeI-KvhGLLa5Y9dr49lYfDWkZkiU&showAlbum=true&showArtwork=true&showProgress=true&showPause=true&transparentBackground=false"/>
+
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>

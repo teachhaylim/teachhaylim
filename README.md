@@ -33,9 +33,7 @@
 
 ## Now Playing
 
-<!-- [![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/316ynimwepp7athpqi6d3l3a54ey) -->
-
-<iframe src="https://nowplayi.ng/miniplayer.php?refreshToken=AQAXf0cYIeSx9kovhruVuBHjwWVOD8YASzWfWanmNx1kWqF-bkc0dI4k_HOf5stz3sDhbId5_XdJOQcW3aGSosFD-fLQcsPOzlpoPTnmeI-KvhGLLa5Y9dr49lYfDWkZkiU&showAlbum=true&showArtwork=true&showProgress=true&showPause=true&transparentBackground=false" title="W3Schools Free Online Web Tutorials"></iframe>
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=pyutugroo2wq770ysj6wc9xo1&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=pyutugroo2wq770ysj6wc9xo1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />

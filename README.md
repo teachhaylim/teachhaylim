@@ -33,7 +33,9 @@
 
 ## Now Playing
 
-<img src="https://nowplayi.ng/miniplayer.php?refreshToken=AQAXf0cYIeSx9kovhruVuBHjwWVOD8YASzWfWanmNx1kWqF-bkc0dI4k_HOf5stz3sDhbId5_XdJOQcW3aGSosFD-fLQcsPOzlpoPTnmeI-KvhGLLa5Y9dr49lYfDWkZkiU&showAlbum=true&showArtwork=true&showProgress=true&showPause=true&transparentBackground=false"/>
+<!-- [![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/316ynimwepp7athpqi6d3l3a54ey) -->
+
+<iframe src="[https://www.w3schools.com](https://nowplayi.ng/miniplayer.php?refreshToken=AQAXf0cYIeSx9kovhruVuBHjwWVOD8YASzWfWanmNx1kWqF-bkc0dI4k_HOf5stz3sDhbId5_XdJOQcW3aGSosFD-fLQcsPOzlpoPTnmeI-KvhGLLa5Y9dr49lYfDWkZkiU&showAlbum=true&showArtwork=true&showProgress=true&showPause=true&transparentBackground=false)" title="W3Schools Free Online Web Tutorials"></iframe>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />

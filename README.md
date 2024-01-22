@@ -33,7 +33,11 @@
 
 ## Now Playing
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=pyutugroo2wq770ysj6wc9xo1&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=pyutugroo2wq770ysj6wc9xo1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
+<p>
+<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=pyutugroo2wq770ysj6wc9xo1&redirect=true">
+<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=pyutugroo2wq770ysj6wc9xo1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
+</a>
+</p>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />

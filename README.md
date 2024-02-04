@@ -31,6 +31,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teachhaylim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+## WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Spotify
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=pyutugroo2wq770ysj6wc9xo1">

@@ -34,6 +34,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Kotlin                 5 hrs 38 mins   ███████████████▒░░░░░░░░░   60.84 %
+Groovy                 1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+XML                    1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+YAML                   41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Gradle                 28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Spotify

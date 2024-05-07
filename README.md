@@ -6,7 +6,7 @@
 <!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?logo=facebook&logoColor=white)](https://www.facebook.com/TeachhayLim12) -->
 <!-- [![Upwork Badge](https://img.shields.io/badge/-Upwork-1fa817?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d3959ec5727136e6) -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teachhay-lim-840372214/) -->
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-229ED9?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/LycoReco12)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-229ED9?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Yagi_Raijin)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-668F80?style=flat-square&logo=gnometerminal&logoColor=white)](https://teachhaylim.dev/)
 [![wakatime](https://wakatime.com/badge/user/1994304e-59ca-4f17-bdc0-44c969ec28d5.svg)](https://wakatime.com/@1994304e-59ca-4f17-bdc0-44c969ec28d5)
 

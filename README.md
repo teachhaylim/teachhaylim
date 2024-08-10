@@ -16,20 +16,12 @@
 - 📫 Reach me at: <info@teachhaylim.dev>
 - 💬 Ask me about anything, I am happy to help
 - 😁 Resourceful but Stubborn as hell
-- ♑ Capricorn by trait
-<!-- 
-## 🎉 Fun facts
-
-- 💻 A JavaScript, Flutter & Dart enthusiast
-- ♑ Capricorn by trait -->
-
----
+<!-- - ♑ Capricorn by trait -->
 
 ## 📈 Stats and Metrics
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teachhaylim&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite"/>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teachhaylim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 

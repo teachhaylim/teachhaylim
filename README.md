@@ -12,7 +12,7 @@
 
 ## 🧑 About Me
 
-- 👩‍💻 I’m currently working on something cool
+- 👩‍💻 I’m currently living life
 - 📫 Reach me at: <info@teachhaylim.dev>
 - 💬 Ask me about anything, I am happy to help
 - 😁 Resourceful but Stubborn as hell

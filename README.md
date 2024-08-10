@@ -16,6 +16,7 @@
 - 📫 Reach me at: <info@teachhaylim.dev>
 - 💬 Ask me about anything, I am happy to help
 - 😁 Resourceful but Stubborn as hell
+- 😎 Jack of all trades, master of none
 <!-- - ♑ Capricorn by trait -->
 
 ## 📈 Stats and Metrics

@@ -13,7 +13,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 😁 Resourceful but Stubborn as hell
 - 😎 Jack of all trades, master of none
-- 🙃 Sweet as sugar, Hard as ice, Cross once and you'll die twice
+<!--- 🙃 Sweet as sugar, Hard as ice, Cross once and you'll die twice -->
 
 ## 📈 Stats and Metrics
 

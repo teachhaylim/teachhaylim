@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                          24 hrs 8 mins   ███████████████████░░░░░░   76.45 %
-TypeScript                    6 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.01 %
+Dart                          24 hrs 38 mins  ███████████████████▓░░░░░   78.06 %
+TypeScript                    5 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+Other                         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 Markdown                      22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Application Resource Bundle   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-XML                           9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+HTML                          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->

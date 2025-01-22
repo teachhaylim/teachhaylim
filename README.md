@@ -5,6 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-229ED9?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Yagi_Raijin)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-668F80?style=flat-square&logo=gnometerminal&logoColor=white)](https://teachhaylim.dev/)
 [![wakatime](https://wakatime.com/badge/user/1994304e-59ca-4f17-bdc0-44c969ec28d5.svg)](https://wakatime.com/@1994304e-59ca-4f17-bdc0-44c969ec28d5)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fteachhaylim&label=visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fteachhaylim)
 
 ## 🧑 About Me
 

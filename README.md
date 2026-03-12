@@ -18,11 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              17 hrs 35 mins        ███████████████▒░░░░░░░░░   61.22 %
-Markdown          3 hrs 31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
-Other             3 hrs 9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-Java Properties   1 hr 16 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-YAML              1 hr 5 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Dart              15 hrs 2 mins         ████████████▓░░░░░░░░░░░░   50.26 %
+Markdown          7 hrs 8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.86 %
+Other             3 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+Java Properties   1 hr 16 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+YAML              1 hr 15 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
 ```
 
 <!--END_SECTION:waka-->

@@ -36,7 +36,7 @@ $ echo $PATH
 $ godot --version
 > 4.6.2.stable.official ← [NEW] wetware install confirmed
 
-$ init
+$ ./init.sh
 > teachhay connected to LycoReco subnet
 > downloading godot-4.6.2-stable.tar.xz...
 > ████████████████████ 100% rootkit acquired

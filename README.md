@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=00FF9F&center=true&vCenter=true&width=600&lines=teachhay%40LYCO_RECO%3A~%24+./inject_godot;WARNING%3A+sanity.exe+not+found;continuing+anyway...;root%40cortex%3A%2Fdev%2Fgame_dev%23+_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=00FF9F&center=true&vCenter=true&width=600&lines=teachhay%40LYCO_RECO%3A~%24+./inject_godot;WARNING%3A+sanity.exe+not+found;continuing+anyway...;root%40cortex%3A%2Fdev%2Fgame_dev%23+_;welcome+to+the+grind,+teachhay" alt="Typing SVG" />
 </div>
 
 <p align="center">

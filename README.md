@@ -49,29 +49,21 @@ $ ./init.sh
 
 ## 🧠 CURRENT RUNNING PROCESSES
 
-```
-┌────────────────────────────────────────────────────────────────────┐
-│  PID  │ NAME                      │ CPU%  │ MEM   │ STATUS  │
-├────────────────────────────────────────────────────────────────────│
-│  001  │ godot --editor            │  45%  │ 2.3GB │ ▶ RUN   │
-│  002  │ imposter_syndrome.daemon  │  99%  │ ∞     │ ▶ STP   │
-│  003  │ tutorial_hell.service     │  12%  │ 512MB │ ▶ RUN   │
-│  004  │ actually_making_game.bin  │   3%  │ 64MB  │ ◐ ZOM   │
-│  005  │ sleep_schedule            │   0%  │ 0B    │ ✕ KILL  │
-└─────────────────────────────────────────────────────────────────────┘
-```
+| PID | NAME                     | CPU% | MEM   | STATUS  |
+| :-: | :----------------------- | :--: | :---: | :------ |
+| 001 | godot --editor           |  45% | 2.3GB | ▶ RUN   |
+| 002 | imposter_syndrome.daemon |  99% | ∞     | ▶ STP   |
+| 003 | tutorial_hell.service    |  12% | 512MB | ▶ RUN   |
+| 004 | actually_making_game.bin |   3% | 64MB  | ◐ ZOM   |
+| 005 | sleep_schedule           |   0% | 0B    | ✕ KILL  |
 
 ## 🍮 SPONSORED BY
 
-```
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│ TIER │ SPONSOR      │ BENEFIT											                      │
-├──────────────────────────────────────────────────────────────────────────────────│
-│  🥇  │ Pudding      │  Debug fuel, 3 AM sanity, emotional support 		  │ 
-│  🥈  │ Chips        │  Crunch-based motivation, noise cover for coding	│
-│  🥉  │ Kumagoro     │  Social shield, judgment, rare approval 			    │
-└──────────────────────────────────────────────────────────────────────────────────┘
-```
+| TIER | SPONSOR  | BENEFIT                                          |
+| :--: | :------- | :----------------------------------------------- |
+|  🥇  | Pudding  | Debug fuel, 3 AM sanity, emotional support       |
+|  🥈  | Chips    | Crunch-based motivation, noise cover for coding  |
+|  🥉  | Kumagoro | Social shield, judgment, rare approval           |
 
 ## 🔮 UPCOMING PATCH NOTES
 
@@ -85,16 +77,13 @@ $ ./init.sh
 
 
 ## 💀 CASUALTY REPORT (DECLASSIFIED)
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  NAME  					            │ CAUSE OF DEATH                    │ LAST WORDS                            │
-├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────│
-│  platformer_ideas   		    │ Procedural generation addiction   │ "I'll just add procedural generation" │
-│  rpg_custom_engine   		    │ NIH syndrome, terminal            │ "How hard can a dialogue system be?"  │
-│  multiplayer_sync   		    │ Network prediction hell           │ "connection terminated"               │
-│  visual_novel_shader_bloom  │ Just one more effect              │ "This text glow needs raytracing"     │
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+
+| NAME                      | CAUSE OF DEATH                  | LAST WORDS                              |
+| :------------------------ | :------------------------------ | :-------------------------------------- |
+| platformer_ideas          | Procedural generation addiction | "I'll just add procedural generation"   |
+| rpg_custom_engine         | NIH syndrome, terminal          | "How hard can a dialogue system be?"    |
+| multiplayer_sync          | Network prediction hell         | "connection terminated"                 |
+| visual_novel_shader_bloom | Just one more effect            | "This text glow needs raytracing"       |
 
 ---
 

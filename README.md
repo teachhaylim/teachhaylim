@@ -100,11 +100,11 @@ $ ./init.sh
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                       12 hrs 32 mins        ███████████░░░░░░░░░░░░░░   44.27 %
-CocoaPods                  4 hrs                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Other                      4 hrs                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Markdown                   1 hr 59 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-Java Properties            54 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Dart                       12 hrs 33 mins        ███████████░░░░░░░░░░░░░░   43.76 %
+Other                      4 hrs 2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+CocoaPods                  4 hrs                 ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+Markdown                   2 hrs 18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Java Properties            54 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->

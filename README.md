@@ -115,4 +115,4 @@ JSON       28 mins               ▒░░░░░░░░░░░░░░�
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=pyutugroo2wq770ysj6wc9xo1" alt="Data Card for Spotify">
 </a>
 
-![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=lycoreco12&theme=catppuccin&count=8&width=1000&username=0&stats=block&footer=wave)
+![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=lycoreco12&count=8&width=1000&username=0&stats=block&footer=wave)

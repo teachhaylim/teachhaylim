@@ -109,10 +109,11 @@ Lua          18 mins               ▓░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-## 🎧 AUDIO BUFFER
+<!-- ## 🎧 AUDIO BUFFER
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=pyutugroo2wq770ysj6wc9xo1">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=pyutugroo2wq770ysj6wc9xo1" alt="Data Card for Spotify">
 </a>
 
 ![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=lycoreco12&count=8&width=1000&username=0&stats=block&footer=wave)
+-->

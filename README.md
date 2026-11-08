@@ -100,11 +100,11 @@ $ ./init.sh
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          3 hrs 40 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 %
-Dart              3 hrs 39 mins         █████░░░░░░░░░░░░░░░░░░░░   20.27 %
-YAML              2 hrs 49 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-Bash              2 hrs 2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Java Properties   1 hr 53 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+YAML              2 hrs 35 mins         █████░░░░░░░░░░░░░░░░░░░░   20.48 %
+Markdown          2 hrs 35 mins         █████░░░░░░░░░░░░░░░░░░░░   20.42 %
+Dart              2 hrs 15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+Java Properties   1 hr 53 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+Bash              1 hr 20 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
 ```
 
 <!--END_SECTION:waka-->
